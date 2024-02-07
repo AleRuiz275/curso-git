@@ -1,0 +1,98 @@
+commit 465d15839be9374c0ef9c49a3de812fa0777c309
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 15:05:56 2024 -0300
+
+    Agregando parrafos
+
+commit 2b3b23418aed9a671191cb4fb93afcbc12673ca9
+Merge: cee98e6 7b16cc4
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 15:01:58 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit cee98e6e13ed8ef294171579724a9be6a86f8e59
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 14:46:49 2024 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7b16cc412d2d605315db73136d76837aa8c358e0
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 14:46:49 2024 -0300
+
+    Agregando las estaciones del año
+
+commit ab2c6500b84b5837c4fbdbb003423dacf2d7dcbd
+Merge: a272c5d b12222f
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 14:41:52 2024 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit b12222fb83da56b045661a32131f0208b518956e
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 14:35:03 2024 -0300
+
+    Agregando index.js al index.html
+
+commit a272c5dc21ffafc76b5fc5061710b81df486c0c8
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 14:32:16 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 058a003597f1eb3c17bd048d31edcde11493dca2
+Merge: b381298 3a00479
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Fri Feb 2 14:20:30 2024 -0300
+
+    Merge branch 'js'
+
+commit 3a004790a61324c2c22fc9a27583e2c3cca2bf97
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Thu Feb 1 22:08:06 2024 -0300
+
+    Creando archivo Javascript
+
+commit b381298acb4b60f3535ba7203c45d8551e3fc17b
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Thu Feb 1 22:03:13 2024 -0300
+
+    Creando style.css
+
+commit 3642682ed9ae07769a9f266c32aa246480260e07
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Thu Feb 1 21:59:06 2024 -0300
+
+    Creando archivo index.html
+
+commit 125a0c33d9df6af793528825ba2e2323c72436a8
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Thu Feb 1 21:44:27 2024 -0300
+
+    Ignorando archivos .exe
+
+commit 5f279db1ee4886eff5097c0b5cb250277e96a099
+Author: AleRuiz275 <130538845+AleRuiz275@users.noreply.github.com>
+Date:   Thu Feb 1 21:12:38 2024 -0300
+
+    Creando licencia del repositorio.
+
+commit 3a19e1780835ded24439eaab922a7160683d253b
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Thu Feb 1 21:05:45 2024 -0300
+
+    Agregando mas contenido al README
+
+commit c2b34ee057fc18cff64c52fe2f1d4e82adbd9cce
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Tue Jan 30 19:24:47 2024 -0300
+
+    Agregando contenido inicial al README.
+
+commit c8feb6f6a533ddb1e2f22e968b187d780d72bf01
+Author: Ale Ruiz <alebernalruiz@gmail.com>
+Date:   Tue Jan 30 19:18:55 2024 -0300
+
+    Primer commit : )
