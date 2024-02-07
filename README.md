@@ -2,8 +2,6 @@
 
 Hola soy Ale, este es un curso de git y github
 
-Agregando mas contenido al _README_
+¿Quieres dominar el uso de _git_? Mira este [enlace](https://jonmircha.com/git).
 
-Este commit es para oficializar nuestra version **1.0.0**.
-
-Cambio de prueba
+![Flujo de Git](<git-flow(1).png>)
